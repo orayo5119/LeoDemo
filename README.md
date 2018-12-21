@@ -1,2 +1,2 @@
-# airbnbtest
+# test
 practice react native
