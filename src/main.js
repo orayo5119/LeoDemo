@@ -13,7 +13,7 @@ class Content extends React.Component {
 
 
 
-        <Text style={{ color: "red", fontSize: 24 }}>
+        <Text style={{ color: "red", fontSize: 24, paddingTop: 200 }}>
           hi Leo, Open up App.js to start working on your app!
         </Text>
         <Button
